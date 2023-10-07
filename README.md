@@ -1,3 +1,3 @@
 # Изготовление печатных плат "PCB"
 
-![PCB](static/images/foreadme.jpg)
+![PCB](static/images/pcbex.jpg)
